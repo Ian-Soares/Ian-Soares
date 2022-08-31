@@ -1,7 +1,9 @@
 <h1 align="center">🌎 Hello, World! I'm Ian Soares!</h1>
 <h3 align="center">I am a DevOps and Networking student who is passionate about IT world.</h3>
 
-- 🔭 Currently working on the project [Draw and Deploy](https://github.com/Draw-And-Deploy)
+- 👨‍💻 Currently working at "Darede", as an IT Intern
+
+- 🔭 Last project [Draw and Deploy](https://github.com/Draw-And-Deploy)
 
 - 📚 Actively learning **AWS, Linux, Python, Ansible, Terraform, Git, Docker...**
 

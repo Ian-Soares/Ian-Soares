@@ -5,9 +5,9 @@
 
 - 🔭 Last project [Draw and Deploy](https://github.com/Draw-And-Deploy)
 
-- 📚 Actively learning **AWS, Linux, Python, Ansible, Terraform, Git, Docker...**
+- 📚 Actively learning **AWS, Linux, Python, Ansible, Terraform, Git, Docker, Kubernetes...**
 
-- 🎯 Tools I want to master **Kubernetes, Gitlab, MongoDB, Vagrant...**
+- 🎯 Tools I want to master **Gitlab, MongoDB, Vagrant, Jenkins, Prometheus...**
 
 <h2 align="left">Main skills</h2>
 <p align="left"> 

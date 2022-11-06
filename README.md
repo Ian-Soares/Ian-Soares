@@ -3,8 +3,6 @@
 
 - 👨‍💻 Currently working at "Darede", as an IT Intern
 
-- 🔭 Last project [Draw and Deploy](https://github.com/Draw-And-Deploy)
-
 - 📚 Actively learning **AWS, Linux, Python, Ansible, Terraform, Git, Docker, Kubernetes...**
 
 - 🎯 Tools I want to master **Gitlab, MongoDB, Vagrant, Jenkins, Prometheus...**

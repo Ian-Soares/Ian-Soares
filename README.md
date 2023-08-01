@@ -1,7 +1,7 @@
 <h1 align="center">🌎 Hello, World! I'm Ian Soares!</h1>
 <h3 align="center">I am a DevOps and Networking student who is passionate about IT world.</h3>
 
-- 👨‍💻 Currently working at "Darede", as an IT Intern
+- 👨‍💻 Currently working at "Linx", as an Cloud Analyst
 
 - 📚 Actively learning **AWS, Linux, Python, Ansible, Terraform, Git, Docker, Kubernetes...**
 

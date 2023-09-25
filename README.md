@@ -1,12 +1,6 @@
 <h1 align="center">🌎 Hello, World! I'm Ian Soares!</h1>
 <h3 align="center">I am a DevOps and Networking student who is passionate about IT world.</h3>
 
-- 👨‍💻 Currently working at "Linx", as an Cloud Analyst
-
-- 📚 Actively learning **AWS, Linux, Python, Ansible, Terraform, Git, Docker, Kubernetes...**
-
-- 🎯 Tools I want to master **Gitlab, MongoDB, Vagrant, Jenkins, Prometheus...**
-
 <h2 align="left">Main skills</h2>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!--   -->
